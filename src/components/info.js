@@ -28,6 +28,7 @@ export default function info() {
         <a
           className="mr-5 icon"
           target="_blank"
+          rel="noopener noreferrer"
           href="https://twitter.com/Mr404Found"
         >
           <Twitter />
@@ -35,6 +36,7 @@ export default function info() {
         <a
           className="mr-5 icon"
           target="_blank"
+          rel="noopener noreferrer"
           href="https://instagram.com/sumanth.zero7"
         >
           <Insta />
@@ -42,6 +44,7 @@ export default function info() {
         <a
           className="mr-5 icon"
           target="_blank"
+          rel="noopener noreferrer"
           href="https://github.com/Joanna-Chadzynska"
         >
           <Github />
@@ -49,6 +52,7 @@ export default function info() {
         <a
           className="mr-5 icon"
           target="_blank"
+          rel="noopener noreferrer"
           href="https://www.linkedin.com/in/joanna-chądzyńska"
         >
           <Linkedin />
@@ -56,6 +60,7 @@ export default function info() {
         <a
           className="mr-5 icon"
           target="_blank"
+          rel="noopener noreferrer"
           href="mailto://joanna.chadzynska87@gmail.com"
         >
           <Mail />

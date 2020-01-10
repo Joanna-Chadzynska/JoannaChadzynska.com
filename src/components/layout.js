@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
       <AppBar />
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Projects | Sumanth </title>
+        <title>{data.site.siteMetadata.title}</title>
       </Helmet>
       <main>{children}</main>
       <footer>
