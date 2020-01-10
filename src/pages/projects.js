@@ -2,12 +2,14 @@ import React from "react"
 import { graphql } from "gatsby"
 import Card from "../components/card"
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
 function Projects({ data }) {
   const projectList = data.allProjectsYaml.edges
 
   return (
     <Layout>
+      <SEO title="Projects" />
       <div className="row">
         {projectList.map(({ node }) => {
           return (

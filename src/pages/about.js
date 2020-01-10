@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
 export const query = graphql`
   query {
@@ -26,6 +27,7 @@ export const query = graphql`
 const AboutMePage = ({ data }) => {
   return (
     <Layout>
+      <SEO title="About" />
       <div>
         <h1>About me</h1>
         <h4>
