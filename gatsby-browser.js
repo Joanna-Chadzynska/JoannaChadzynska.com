@@ -5,3 +5,6 @@
  */
 
 // You can delete this file if you're not using it
+
+require("bootstrap/dist/js/bootstrap")
+require("bootstrap/dist/css/bootstrap.css")
