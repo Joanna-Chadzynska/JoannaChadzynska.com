@@ -1,10 +1,8 @@
 import React from "react"
 
 import {
-  FaTwitter as Twitter,
   FaGithub as Github,
   FaLinkedinIn as Linkedin,
-  FaInstagram as Insta,
   FaEnvelope as Mail,
 } from "react-icons/fa"
 
@@ -18,29 +16,12 @@ export default function info() {
       </div>
       <div className="h1 code mt-4 mb-3">async {"{"}</div>
       <div className="text-muted mx-5 my-4 h3 text-justify info">
-        A Passionate Front-end Developer, UI/UX Enthusiast, Android Geek and Web
-        Developer.
-        <br /> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et.
+        A Passionate Front-end Developer, UI/UX Enthusiast and Web Developer.
+        <br /> Love to learn about the latest technologies and learn how to
+        develop my skills.
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
       <div className="h1 mt-5">
-        <a
-          className="mr-5 icon"
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://twitter.com/Mr404Found"
-        >
-          <Twitter />
-        </a>
-        <a
-          className="mr-5 icon"
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://instagram.com/sumanth.zero7"
-        >
-          <Insta />
-        </a>
         <a
           className="mr-5 icon"
           target="_blank"

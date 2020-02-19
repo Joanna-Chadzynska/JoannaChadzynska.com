@@ -1,6 +1,6 @@
-- title: Pixel Music
-  subtitle: Basic Music Player That lets you to play music and search artists
-  link: https://github.com/Joanna-Chadzynska/pixel-music
+# - title: Pixel Music
+#   subtitle: Basic Music Player That lets you to play music and search artists
+#   link: https://github.com/Joanna-Chadzynska/pixel-music
 
 - title: Oddam w dobre ręce
   subtitle: React Project - A form for donating unnecessary things with authentication
@@ -10,13 +10,14 @@
   subtitle: React Project - Adding recipes, meal planner
   link: https://github.com/Joanna-Chadzynska/ScrumLabApp
 
-- title: React Redux Movie App
+- title: Movie Search
   subtitle: React Project - A simple application to manage a library of movies
-  link: https://github.com/Joanna-Chadzynska/react-redux-movie-app
+  link: https://github.com/Joanna-Chadzynska/movie-search-app
 
 - title: SaasProject
-  subtitle: Basic Website
+  subtitle: Simple responsive website
   link: https://github.com/Joanna-Chadzynska/SassProject
-# - title: Qr-Code-Application
-#   subtitle: A new Flutter project
-#   link: https://github.com/Mr404Found/Qr-Code-Application
+
+- title: Clicker Game
+  subtitle: Simple Clicker Game written in JavaScript
+  link: https://github.com/Joanna-Chadzynska/clicker-game
